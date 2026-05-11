@@ -1,6 +1,6 @@
 # Hello, I'm Lila
 
-Applied Math Student @ Gdańsk University of Technology
+Applied Math Student @ Gdańsk University of Technology/
 I am passionate about Data Engineering, databases, and building robust data pipelines. My core focus is on transforming raw data into structured, accessible formats using modern warehousing and ETL techniques. 
 Currently, I am balancing my data engineering projects with an academic research group, exploring the mathematical and theoretical foundations of emerging technologies.
 
